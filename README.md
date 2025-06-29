@@ -93,3 +93,16 @@ Examples: Performance, security, scalability, usability, reliability.
 + Scalability: The system should be able to scale horizontally to handle increased traffic.
 + Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 + Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+## Use Case Diagrams
+These are visual representations of interactions between users and the system.
+### Benefits of Use Case Diagrams:
++ Provide a clear visual representation of system functionalities.
++ Help in identifying and organizing system requirements.
++ Facilitate communication among stakeholders and development team.
+### alx-booking-uc.png 
+https://drive.google.com/file/d/1ebgLgw8a6zUlZPYI9oUu1be7DNlCb-ZO/view?usp=drivesdk
+
+
+## Acceptance Criteria
+
