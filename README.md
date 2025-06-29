@@ -102,8 +102,13 @@ These are visual representations of interactions between users and the system.
 + Facilitate communication among stakeholders and development team.
 ### alx-booking-uc.png 
 
-![alx-booking-uc.png](https://github.com/user-attachments/assets/88b19dd1-0a22-4b17-9e51-44eb6969c206)
+alx-booking-uc.png (https://github.com/user-attachments/assets/88b19dd1-0a22-4b17-9e51-44eb6969c206)
 
 
 ## Acceptance Criteria
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+### Benefits of Acceptance Criteria
++ Ensure all parties have a clear understanding of feature requirements.
++ Provide a basis for testing and validation.
++ Help in maintaining quality and meeting user expectations.
 
