@@ -100,7 +100,6 @@ These are visual representations of interactions between users and the system.
 + Provide a clear visual representation of system functionalities.
 + Help in identifying and organizing system requirements.
 + Facilitate communication among stakeholders and development team.
-### alx-booking-uc.png 
 
 alx-booking-uc.png (https://github.com/user-attachments/assets/88b19dd1-0a22-4b17-9e51-44eb6969c206)
 
