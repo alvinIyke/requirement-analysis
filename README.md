@@ -111,3 +111,6 @@ Acceptance criteria are conditions that a feature must meet to be accepted by th
 + Provide a basis for testing and validation.
 + Help in maintaining quality and meeting user expectations.
 
+  ![alx-booking-uc](https://github.com/user-attachments/assets/461013aa-e050-4aef-b6bc-a55e81006a63)
+
+
