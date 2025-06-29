@@ -101,7 +101,7 @@ These are visual representations of interactions between users and the system.
 + Help in identifying and organizing system requirements.
 + Facilitate communication among stakeholders and development team.
 ### alx-booking-uc.png 
-https://drive.google.com/file/d/1ebgLgw8a6zUlZPYI9oUu1be7DNlCb-ZO/view?usp=drivesdk
+https://drive.google.com/file/d/1ebgLgw8a6zUlZPYI9oUu1be7DNlCb-ZO/view?usp=sharing
 
 
 ## Acceptance Criteria
